@@ -9,7 +9,8 @@ such as Naive Bayes, Logistic Regression, or Support Vector
 Machines.
 
 
-![movie_genre_classification](https://github.com/programmarself/CodSoft-MachineLearning-Internship-Task-1/assets/134633289/a9b8a5d9-5594-49c3-97a5-13e7e1e4c6e6)
+
+![movie_genre_classification](https://github.com/programmarself/CodSoft-MachineLearning-Internship-Task-1/assets/134633289/42301836-bbf7-48e0-a5ed-3b2761918626)
 
 
 
