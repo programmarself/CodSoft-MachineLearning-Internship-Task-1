@@ -1,4 +1,4 @@
-![movie_genre_classification](https://github.com/programmarself/CodSoft-MachineLearning-Internship-Task-1/assets/134633289/61e8ff3e-2644-447f-9c26-084e8746cafb)# CodSoft-MachineLearning-Internship-Task 1
+
 
 MOVIE GENRE CLASSIFICATION
 
