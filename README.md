@@ -1,4 +1,4 @@
-# CodSoft-MachineLearning-Internship-Task 1
+![movie_genre_classification](https://github.com/programmarself/CodSoft-MachineLearning-Internship-Task-1/assets/134633289/61e8ff3e-2644-447f-9c26-084e8746cafb)# CodSoft-MachineLearning-Internship-Task 1
 
 MOVIE GENRE CLASSIFICATION
 
@@ -7,6 +7,11 @@ movie based on its plot summary or other textual information. You
 can use techniques like TF-IDF or word embeddings with classifiers
 such as Naive Bayes, Logistic Regression, or Support Vector
 Machines.
+
+
+![movie_genre_classification](https://github.com/programmarself/CodSoft-MachineLearning-Internship-Task-1/assets/134633289/a9b8a5d9-5594-49c3-97a5-13e7e1e4c6e6)
+
+
 
 <h1 style="font-family: 'poppins'; font-weight: bold; color: Green;">👨💻Author: Irfan Ullah Khan</h1>
 
